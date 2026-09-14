@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-360-view-of-st-catherine-laboure-harrisburg-pa-exterior-1",
-      "name": "St. Catherine Laboure Harrisburg, PA",
+      "name": "St. Catherine Laboure Parish, Shrine of the Miraculous Medal Harrisburg, PA",
       "levels": [
         {
           "tileSize": 256,
@@ -44,7 +44,7 @@ var APP_DATA = {
     },
     {
       "id": "1-360-view-of-st-catherine-laboure-harrisburg-pa-exterior-2",
-      "name": "St. Catherine Laboure Harrisburg, PA",
+      "name": "St. Catherine Laboure Parish, Shrine of the Miraculous Medal Harrisburg, PA",
       "levels": [
         {
           "tileSize": 256,
@@ -92,7 +92,7 @@ var APP_DATA = {
     },
     {
       "id": "2-360-view-of-st-catherine-laboure-harrisburg-pa-interior-1",
-      "name": "St. Catherine Laboure Harrisburg, PA",
+      "name": "St. Catherine Laboure Parish, Shrine of the Miraculous Medal Harrisburg, PA",
       "levels": [
         {
           "tileSize": 256,
@@ -140,7 +140,7 @@ var APP_DATA = {
     },
     {
       "id": "3-360-view-of-st-catherine-laboure-harrisburg-pa-interior-2",
-      "name": "St. Catherine Laboure Harrisburg, PA",
+      "name": "St. Catherine Laboure Parish, Shrine of the Miraculous Medal Harrisburg, PA",
       "levels": [
         {
           "tileSize": 256,
@@ -194,7 +194,7 @@ var APP_DATA = {
     },
     {
       "id": "4-360-view-of-st-catherine-laboure-harrisburg-pa-interior-3",
-      "name": "St. Catherine Laboure Harrisburg, PA",
+      "name": "St. Catherine Laboure Parish, Shrine of the Miraculous Medal Harrisburg, PA",
       "levels": [
         {
           "tileSize": 256,
@@ -248,7 +248,7 @@ var APP_DATA = {
     },
     {
       "id": "5-360-view-of-st-catherine-laboure-harrisburg-pa-interior-4",
-      "name": "St. Catherine Laboure Harrisburg, PA",
+      "name": "St. Catherine Laboure Parish, Shrine of the Miraculous Medal Harrisburg, PA",
       "levels": [
         {
           "tileSize": 256,
@@ -302,7 +302,7 @@ var APP_DATA = {
     },
     {
       "id": "6-360-view-of-st-catherine-laboure-harrisburg-pa-interior-5",
-      "name": "St. Catherine Laboure Harrisburg, PA",
+      "name": "St. Catherine Laboure Parish, Shrine of the Miraculous Medal Harrisburg, PA",
       "levels": [
         {
           "tileSize": 256,
